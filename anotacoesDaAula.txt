@@ -2,3 +2,7 @@ git status ; verifica as alterações existentes no código
 
 para adicionar apenas um ARQUIVO ; git add nomeDoArquivo
 
+para adicionar todos os arquivos ; git add .
+
+dar o commit ; git commit -m "mensagem"
+
