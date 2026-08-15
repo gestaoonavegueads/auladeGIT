@@ -10,5 +10,9 @@ PARA FAZER O  merge ; vou para o branch PRINCIPAL e dou o comando ; git merge NO
  - Após ser feito o merge, exlcuir a brach de NOMEdoBRANCHdeEMERGENCIA
 
  .gitigore ; indica arquivos ou pastas para o git não fazer o upload no Github. um arquivo ou pasta por linha.
+ - adicionar variaveveis de ambiente (só eu preciso ter acesso)
+ - existem modelos na internet de GITIGNORE para os projetos na linguagemq ue quero criar.
+
+ Corrigindo mensagem de commit ;  git commit --amend -m "mensagem que quero adicionar"
 
  
