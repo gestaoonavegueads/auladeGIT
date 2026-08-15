@@ -16,4 +16,7 @@ PARA FAZER O  merge ; vou para o branch PRINCIPAL e dou o comando ; git merge NO
  Corrigindo mensagem de commit ;  git commit --amend -m "mensagem que quero adicionar"
 
 
-Voltando para outro commit 1 git revert
+Voltando para outro commit 1 git revert CÓDIGFO DO COMMIT --no-edit (revert para deixar o histórico no repositório)
+
+
+
