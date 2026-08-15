@@ -44,3 +44,5 @@ para criar uma nova branch; git branch nomeDaVersao
 git switch novaversao
 
 >>>>>>> novaversao
+
+
