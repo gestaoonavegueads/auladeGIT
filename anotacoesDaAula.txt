@@ -23,5 +23,3 @@ para criar uma nova branch; git branch nomeDaVersao
 
 git switch novaversao
 
-criar uma branch para emergências, correções de bug. Para isso é preciso estar na branch princial, criar uma nova branch com base nela, as alterações são realziadas nessa nova branch depois é feito uma merge com essa nova brach e a princial.
-
