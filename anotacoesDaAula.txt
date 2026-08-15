@@ -6,6 +6,7 @@ para adicionar todos os arquivos ; git add .
 
 dar o commit ; git commit -m "mensagem"
 
+<<<<<<< HEAD
 PARA FAZER O  merge ; vou para o branch PRINCIPAL e dou o comando ; git merge NOMEdoBRANCHdeEMERGENCIA  
  - Após ser feito o merge, exlcuir a brach de NOMEdoBRANCHdeEMERGENCIA
 
@@ -24,3 +25,22 @@ Voltando para outro commit 1 git revert CÓDIGFO DO COMMIT --no-edit (revert par
 =======
  
 >>>>>>> parent of 223e206 (nada)
+=======
+a BRANCH só aparece depois de dar o primeiro commit
+
+git log ; mostra os commits existentes
+
+para verificar os comandos do git; git help 
+para ver um comando especifico ; git COMANDO --help
+
+branch é uma versão especifica do sistema V1 v2 etc...
+
+branch MAIN ou MASTERA é a versão final para o projeto, o que vai para produção.
+
+após finalizar o sistema, unir com a versão final; MAIN ou MASTER 
+
+para criar uma nova branch; git branch nomeDaVersao
+
+git switch novaversao
+
+>>>>>>> novaversao
