@@ -6,3 +6,9 @@ para adicionar todos os arquivos ; git add .
 
 dar o commit ; git commit -m "mensagem"
 
+PARA FAZER O  merge ; vou para o branch PRINCIPAL e dou o comando ; git merge NOMEdoBRANCHdeEMERGENCIA  
+ - Após ser feito o merge, exlcuir a brach de NOMEdoBRANCHdeEMERGENCIA
+
+ .gitigore ; indica arquivos ou pastas para o git não fazer o upload no Github. um arquivo ou pasta por linha.
+
+ 
