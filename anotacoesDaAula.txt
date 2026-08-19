@@ -45,4 +45,9 @@ git switch novaversao
 
 >>>>>>> novaversao
 
+------------------------------
+
+Instalação do Github Cli
+
+
 
