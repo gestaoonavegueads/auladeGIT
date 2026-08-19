@@ -49,6 +49,7 @@ git switch novaversao
 
 Instalação do Github Cli
 
+gh auth login    = para fazer a autenticação com o Github
 
+Fazer a autenticação por HTTPS, mais indicado
 
-asasas 
